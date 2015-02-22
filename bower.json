@@ -5,7 +5,11 @@
     "Ayman Alkom <ayman.alkom@hotmail.com>"
   ],
   "description": "Intel AppFramework Libs Version 3.0",
-  "main": "appframework.ui.min.js",
+  "main": [
+		"af.ui.base.css",
+		"icons.css",
+		"appframework.ui.js",
+  ],
   "keywords": [
     "appframework",
     "intel",
