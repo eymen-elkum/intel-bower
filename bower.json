@@ -1,0 +1,28 @@
+{
+  "name": "appframework-v3",
+  "version": "3.0",
+  "authors": [
+    "Ayman Alkom <ayman.alkom@hotmail.com>"
+  ],
+  "description": "Intel AppFramework Libs Version 3.0",
+  "main": "appframework.ui.min.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "intel",
+    "html5",
+    "framework",
+    "app",
+    "web"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
