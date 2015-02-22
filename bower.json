@@ -6,11 +6,8 @@
   ],
   "description": "Intel AppFramework Libs Version 3.0",
   "main": "appframework.ui.min.js",
-  "moduleType": [
-    "amd",
-    "globals"
-  ],
   "keywords": [
+    "appframework",
     "intel",
     "html5",
     "framework",
