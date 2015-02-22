@@ -8,7 +8,7 @@
   "main": [
 		"af.ui.base.css",
 		"icons.css",
-		"appframework.ui.js",
+		"appframework.ui.js"
   ],
   "keywords": [
     "appframework",
